@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F0F0F2;
+}
+
+header {
+    padding: 20px;
+    background-color: white;
+
+    .collapseDiv {
+        margin-left: 30px;
+        padding-left: 30px;
+
+        .ulClass {
+            width: 85%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+
+        i {
+
+            padding: 10px;
+
+        }
+    }
+
+
+}
+
+
